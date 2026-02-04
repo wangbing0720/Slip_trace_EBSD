@@ -20,3 +20,9 @@ Functions of the code
 Further Reference
 -----------------------------------------------------------------------------------------
 MTEX: https://mtex-toolbox.github.io
+
+Extras
+-----------------------------------------------------------------------------------------
+`schmid_factor_tial.py` provides a small interactive Schmid factor calculator for TiAl
+(L1₀ tetragonal) that converts Miller indices to Cartesian vectors and reports φ, λ,
+and the Schmid factor.
